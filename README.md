@@ -50,10 +50,10 @@ $ rosrun ai_control route_navi.py
 ```
 Then you can activate the auto pilot on the ego vehicle window by pressing 'p'
 
-### Command Interface***
+### Command Interface
 Refer to: cmd_interface.py
 
-### Read Camera Interface***
+### Read Camera Interface
 Refer to: read_camera.py
 
 For more information, please contact the committee of the competition.
