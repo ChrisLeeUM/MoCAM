@@ -17,6 +17,7 @@ if(${ROS_VERSION} EQUAL 1)
   catkin_install_python(PROGRAMS
             src/cmd_interface.py
             src/route_navi.py
+            src/read_camera.py
             DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
 
 endif()
