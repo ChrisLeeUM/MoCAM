@@ -3,13 +3,14 @@ This page is the tutorial of environment setup for MoCAM.
 
 ## Dependency
 System: Ubuntu 20.04
+
 Ros install: http://wiki.ros.org/noetic/Installation/Ubuntu
 
 carla install :https://carla.readthedocs.io/en/latest/start_quickstart/
 
 carla_ros_bridge install: https://carla.readthedocs.io/projects/ros-bridge/en/latest/ros_installation_ros1/
 
-carla docker: Please ask for the committee.
+Carla docker: Please ask for the committee.
 
 **Notice: Ros noetic is strongly recommended.**
 
