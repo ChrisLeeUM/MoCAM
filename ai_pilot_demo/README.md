@@ -1,4 +1,4 @@
-# MoCAM
+# Environment Setup Tutorial
 This page is the tutorial of environment setup for MoCAM.
 
 ## Dependency
